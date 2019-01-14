@@ -1,0 +1,4 @@
+#Fri Jan 11 18:15:57 WIB 2019
+base.0=/Users/xwork/ganang/airbnbMaps/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
